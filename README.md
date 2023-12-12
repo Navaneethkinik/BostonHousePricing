@@ -6,6 +6,6 @@
 2. [Heroku Acccount](https://heroku.com)
 3. [VS Code IDE](https://code.visualstudio.com/)
 
-Create a new Environment
+Virtual Environment : venv
 
-python -m venv venv
+[Deployed in Heroku]( https://bostonhouseprice001-b05df1cf617b.herokuapp.com/)
